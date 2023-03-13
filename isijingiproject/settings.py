@@ -82,12 +82,14 @@ DATABASES = {
  #   }
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'isijingidata',
-    #    'NAME': 'mydatabase',
+    #    'NAME': 'isijingidata',
+        'NAME': 'isijingi_isijingidata',
         'USER': 'root',
         'PASSWORD': 'UEeaKdAJ8fDRMf5gBEZq',
-        'HOST': '127.0.0.1',
-        'PORT': '3306',
+     #   'HOST': '127.0.0.1',
+     #   'PORT': '3306',
+        'HOST':'',
+        'PORT':'',
     }
 }
 
