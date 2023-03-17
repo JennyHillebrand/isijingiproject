@@ -83,7 +83,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
     #    'NAME': 'isijingidata',
-        'NAME': 'isijingi_isijingidata',
+        'NAME': 'parowwes_isijingidata',
         'USER': 'root',
         'PASSWORD': 'UEeaKdAJ8fDRMf5gBEZq',
      #   'HOST': '127.0.0.1',
